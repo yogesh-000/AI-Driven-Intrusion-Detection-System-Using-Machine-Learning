@@ -1,6 +1,44 @@
 # AI-Driven-Intusion-Detection-Using-Machine-Learning-
 AI-Driven Intrusion Detection system using Machine Learning to detect cyber threats. Built with Flask, ML models (Random Forest, AdaBoost, LightGBM, MLP), and features real-time predictions, visualizations, user authentication, and cloud dataset support.
 
+Project Information
+
+This project was developed by a team of four members as part of our Final Year Engineering Project.
+
+Project Title
+
+AI-Driven Intrusion Detection System Using Machine Learning
+
+Description
+
+A Flask-based Intrusion Detection System that leverages Machine Learning models to analyze network traffic, detect cyber threats, and provide security monitoring for cloud and IoT environments. The system supports KDDCup and BoT-IoT datasets, real-time prediction, attack classification, and interactive visualizations.
+
+Technologies Used
+
+- Python
+- Flask
+- Machine Learning
+- LightGBM
+- Random Forest
+- AdaBoost
+- HTML
+- CSS
+- JavaScript
+
+Features
+
+- User Authentication
+- Dataset Upload and Analysis
+- Real-Time Intrusion Detection
+- Attack Classification
+- Interactive Dashboard
+- Cloud and IoT Security Monitoring
+
+Team Project
+
+Developed collaboratively by a team of four members as part of the undergraduate curriculum.
+
+
 
 ![login](https://github.com/user-attachments/assets/f69f603d-653a-49f2-9552-9420a70e6c46)![IDS input 2](https://github.com/user-attachments/assets/aee1cd76-80c2-45a7-87e1-d9cc317fffa9)
 ![IDs graphs](https://github.com/user-attachments/assets/e82977a3-3fe2-4dab-a48d-0442e5e8769f)
